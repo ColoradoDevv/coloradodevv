@@ -60,8 +60,6 @@ const coloradoDev = {
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ColoradoDevv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColoradoDevv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ColoradoDevv&theme=tokyonight&hide_border=true)
@@ -108,9 +106,9 @@ const aprendiendo = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](TU_PORTFOLIO)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coloradodevv/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://coloradodevv.vercel.app/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coloradodevv@gmail.com)
 
 </div>
 

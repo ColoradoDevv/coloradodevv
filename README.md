@@ -1,113 +1,106 @@
-# Juan Manuel Colorado
-### Full-Stack Developer & Tech Lead
+# Juan Manuel · ColoradoDev
 
 <div align="center">
 
-**Pereira, Colombia** • Python • React • Django • PostgreSQL
-
-[LinkedIn](https://linkedin.com/in/coloradodevv) • [GitHub](https://github.com/ColoradoDevv) • [Portfolio](https://coloradodevv.vercel.app) • [Email](mailto:coloradodevv@gmail.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Backend+Developer+%7C+Full+Stack;APIs+REST+%2B+Arquitectura+de+Software;Pereira%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4)](https://git.io/typing-svg)
 
 </div>
 
----
+<br>
 
-## About
-
-Desarrollador especializado en arquitectura backend robusta y desarrollo full-stack. Experiencia liderando equipos de desarrollo, implementando patrones de seguridad, y diseñando sistemas escalables. Comprometido con código limpio, arquitectura sólida y mejora continua.
-
----
-
-## Skills
-
-<table>
-<tr>
-  <td align="center"><strong>Backend</strong></td>
-  <td align="center"><strong>Frontend</strong></td>
-  <td align="center"><strong>Database</strong></td>
-  <td align="center"><strong>DevOps</strong></td>
-</tr>
-<tr>
-  <td>Python<br>Django<br>REST APIs<br>JWT Auth<br>RBAC</td>
-  <td>React<br>TypeScript<br>Tailwind CSS<br>Responsive<br>UI/UX</td>
-  <td>PostgreSQL<br>SQL Design<br>Optimization<br>Data Integrity<br>Multi-tenant</td>
-  <td>Docker<br>Linux<br>Git<br>Server Config<br>Security</td>
-</tr>
-</table>
-
----
-
-## Featured Projects
-
-### 🎓 Proyecto Formativo SIA
-**Full-Stack Lead** | Django + React + PostgreSQL
-
-- Liderazgo técnico de API backend
-- Implementación de autenticación y seguridad (JWT, CSRF, Rate Limiting)
-- Arquitectura de frontend con React y router refactorización
-- Code review y mentoría de equipo de desarrollo
-
-### 💰 SaaS Divinity
-**Architect & Lead Developer** | Django + React + TypeScript
-
-- Plataforma multi-tenant CRM escalable
-- Diseño de arquitectura de datos para SaaS
-- Seguridad a nivel de tenant e isolamento de datos
-- API robusta y documentada
-
-### 🎬 Otros Proyectos
-- **ARCANUM:** Suite de orquestación para dev (PySide6, Clean Architecture)
-- **Filmify:** Descubrimiento de películas (React + Django)
-- **Clínica Dental:** Landing page responsive
-
----
-
-## Professional Highlights
-
-✅ **Backend Architect** — Diseño de sistemas escalables con Clean Architecture  
-✅ **Team Lead** — Mentoría, code review y dirección técnica de equipos  
-✅ **Security-First** — JWT, CSRF, Rate Limiting, RBAC, Cookie Security  
-✅ **Full-Stack** — Desde DB design hasta UI responsivo  
-✅ **Continuous Learning** — Arquitectura, patrones, best practices  
-
----
-
-## Tech Stack
-
-```
-Languages:   Python, JavaScript/TypeScript, SQL, HTML, CSS
-Frameworks:  Django, React, FastAPI
-Databases:   PostgreSQL, MySQL
-DevOps:      Docker, Linux, Git
-Architecture: Clean Architecture, MVC, RBAC, Design Patterns
-Tools:       VS Code, GitHub, Pytest, Ollama
+```yaml
+name:      Juan Manuel (ColoradoDev)
+location:  Pereira, Colombia
+role:      Desarrollador Web Freelance
+focus:     Backend Developer · Full Stack
+stack:     [ Java, Python, React, PostgreSQL, MySQL, Docker ]
+currently: Explorando Astro y Next.js
+mindset:   Código limpio · Arquitecturas escalables · Soluciones efectivas
 ```
 
----
+<br>
 
-## Currently
+## Sobre mí
 
-🌱 Deepening expertise in software architecture and scalability  
-🎯 Building a YouTube channel for Spanish-speaking developers  
-🚀 Exploring advanced backend patterns and optimization  
-📖 Mentoring junior developers  
+Desarrollador web freelance especializado en **backend** con dominio del stack completo. Diseño sistemas escalables, construyo APIs robustas y las integro con interfaces modernas. Mi enfoque: arquitectura sólida primero, experiencia de usuario después.
 
----
+- Trabajando en aplicaciones web con arquitecturas robustas
+- Profundizando en Astro, React y Next.js para experiencias frontend más rápidas
+- Apasionado por el diseño de sistemas y los patrones de arquitectura de software
 
-## Looking For
+<br>
 
-Proyectos donde pueda:
-- Diseñar arquitecturas backend sólidas
-- Liderar técnicamente un equipo
-- Implementar security best practices
-- Contribuir a código de calidad
-- Crecer en complejidad técnica
+## Stack Tecnológico
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+<br>
+
+## Proyectos Destacados
+
+<div align="center">
+
+[![Filmify](https://github-readme-stats.vercel.app/api/pin/?username=ColoradoDevv&repo=filmify&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/ColoradoDevv/filmify)
+[![Clínica Dental](https://github-readme-stats.vercel.app/api/pin/?username=ColoradoDevv&repo=clinica-dental&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/ColoradoDevv/clinica-dental)
+
+</div>
+
+**Filmify** — Aplicación web para gestión y descubrimiento de películas. Backend robusto, interfaz intuitiva.
+
+**Clínica Dental** — Landing page moderna y responsive para clínicas dentales. Diseño orientado a conversión.
+
+<br>
+
+## Estadísticas
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColoradoDevv&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ColoradoDevv&theme=github-dark-blue&hide_border=true&background=0d1117)
+
+</div>
+
+<br>
+
+## Contacto
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coloradodevv/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=white)](https://coloradodevv.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:coloradodevv@gmail.com)
+
+</div>
+
+<br>
 
 ---
 
 <div align="center">
 
-**Backend First • Full-Stack Always • Quality Always**
+*"El buen código es su mejor documentación."* — Steve McConnell
 
-Available for freelance & full-time projects
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ColoradoDevv.ColoradoDevv)
 
 </div>
